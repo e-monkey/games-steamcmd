@@ -12,5 +12,8 @@ L4D 2 servers require 1 port to be open. The port can be safely changed to any o
 |-----------|---------|
 | Game/rcon | 27015   |
 
+> [!IMPORTANT]
+> A real, valid Steam account, which ones the game, is required to install this game server.
+
 ## Steam Download [SteamStore](https://store.steampowered.com/app/550/Left_4_Dead_2/)
 
